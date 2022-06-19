@@ -3,7 +3,7 @@
 Java dünyasındaki framework’ler ve çözdükleri problemler nedir?(Spring MVC, JSP,
 Struct, Vaadin). Örnekler ile açıklayın. (20 Puan)
 
-Spring: Java ile proje yaparken database connect pool, database driver, üçüncü parti jar dosyaları kütüphanesi, ssl protokolü ve karakter encoding gibi konfigürasyonlara ihtiyacımız olur. Bu konfigürasyonların hepsini kendimiz
+**Spring:** Java ile proje yaparken database connect pool, database driver, üçüncü parti jar dosyaları kütüphanesi, ssl protokolü ve karakter encoding gibi konfigürasyonlara ihtiyacımız olur. Bu konfigürasyonların hepsini kendimiz
 yapmamız gerekir ve bu zaman alıcı bir iştir. Spring neredeyse bu konfigürasyonların hepsini bizim için yapar. Böylece asıl yazmamız gereken koda geçebilir ve işin mantığına odaklanabiliriz. Tabii ki Spring kullanırken de
 bazı konfigürasyonları yapmamız gerekir ama bu çok minimal düzeydedir.
 
